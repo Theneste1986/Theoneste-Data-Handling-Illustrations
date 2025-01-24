@@ -3,4 +3,4 @@ Assignment typically involves analyzing and summarizing data to uncover patterns
 #These are the main points to work on
 Handling missing values.
 Removing duplicates.
-Normalizing, encoding, or transforming data for consistency.
+Normalizing, encoding, or transforming data for consistency.RR
